@@ -1,6 +1,12 @@
 # stepin_Tariffcalculation
 
+![Code inspector CodeQuality](https://www.code-inspector.com/project/27982/score/svg)
 
+<br>
+
+![Code inspector Grade](https://www.code-inspector.com/project/27982/status/svg)
+
+<br>
 
 [![Git Inspector](https://github.com/Aishma19/stepin_Tariffcalculation/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/Aishma19/stepin_Tariffcalculation/actions/workflows/git_inspector.yml)
 
